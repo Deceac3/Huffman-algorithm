@@ -1,3 +1,6 @@
 main
+test.c
+test
 .uncompressed.dat
 .compressed.dat
+settings.json

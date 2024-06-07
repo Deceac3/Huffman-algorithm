@@ -1,4 +1,4 @@
-#include <scr/settings.h>
+#include <scr/config.h>
 
 int main(int argc, char *argv[]){
     if (argc < 4) 
